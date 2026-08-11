@@ -30,10 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sandeepsharma28381/leetcode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/sandeepsharma28381/leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/sandeepsharma28381/leetcode/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sandeepsharma28381/leetcode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/sandeepsharma28381/leetcode/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sandeepsharma28381/leetcode/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/sandeepsharma28381/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
