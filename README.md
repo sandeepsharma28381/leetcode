@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sandeepsharma28381/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sandeepsharma28381/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/sandeepsharma28381/leetcode/tree/master/0338-counting-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -81,4 +82,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sandeepsharma28381/leetcode/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/sandeepsharma28381/leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
