@@ -1,14 +1,10 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        min = prices[0]
-        max = 0
+        min_price = prices[0]
+        max_profit = 0
 
-        for n in prices:
-            if n < min:
-                min = n
+        for price in prices:
+            min_price = min(min_price, price)
+            max_profit = max(max_profit, price - min_price)
 
-            pro = n - min
-
-            if pro > max:
-                max = pro
-        return max
+        return max_profit
