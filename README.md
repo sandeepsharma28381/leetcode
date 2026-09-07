@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sandeepsharma28381/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sandeepsharma28381/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/sandeepsharma28381/leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/sandeepsharma28381/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/sandeepsharma28381/leetcode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sandeepsharma28381/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sandeepsharma28381/leetcode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/sandeepsharma28381/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/sandeepsharma28381/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/sandeepsharma28381/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sandeepsharma28381/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/sandeepsharma28381/leetcode/tree/master/0412-fizz-buzz) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sandeepsharma28381/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sandeepsharma28381/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/sandeepsharma28381/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/sandeepsharma28381/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/sandeepsharma28381/leetcode/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
@@ -115,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/sandeepsharma28381/leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/sandeepsharma28381/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
