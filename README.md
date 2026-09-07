@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sandeepsharma28381/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/sandeepsharma28381/leetcode/tree/master/0412-fizz-buzz) |
 | [2413-smallest-even-multiple](https://github.com/sandeepsharma28381/leetcode/tree/master/2413-smallest-even-multiple) |
+| [2485-find-the-pivot-integer](https://github.com/sandeepsharma28381/leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/sandeepsharma28381/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [2485-find-the-pivot-integer](https://github.com/sandeepsharma28381/leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
