@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sandeepsharma28381/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/sandeepsharma28381/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sandeepsharma28381/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/sandeepsharma28381/leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/sandeepsharma28381/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sandeepsharma28381/leetcode/tree/master/0283-move-zeroes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sandeepsharma28381/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/sandeepsharma28381/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/sandeepsharma28381/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sandeepsharma28381/leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/sandeepsharma28381/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sandeepsharma28381/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sandeepsharma28381/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/sandeepsharma28381/leetcode/tree/master/0412-fizz-buzz) |
@@ -129,5 +131,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sandeepsharma28381/leetcode/tree/master/0204-count-primes) |
 | [2413-smallest-even-multiple](https://github.com/sandeepsharma28381/leetcode/tree/master/2413-smallest-even-multiple) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sandeepsharma28381/leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sandeepsharma28381/leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sandeepsharma28381/leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sandeepsharma28381/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
