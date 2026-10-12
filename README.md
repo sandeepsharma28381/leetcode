@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/sandeepsharma28381/leetcode/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/sandeepsharma28381/leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/sandeepsharma28381/leetcode/tree/master/2413-smallest-even-multiple) |
+| [2469-convert-the-temperature](https://github.com/sandeepsharma28381/leetcode/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/sandeepsharma28381/leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Recursion
 |  |
