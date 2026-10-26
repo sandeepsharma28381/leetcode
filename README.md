@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sandeepsharma28381/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/sandeepsharma28381/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sandeepsharma28381/leetcode/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/sandeepsharma28381/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sandeepsharma28381/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/sandeepsharma28381/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/sandeepsharma28381/leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sandeepsharma28381/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/sandeepsharma28381/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0242-valid-anagram](https://github.com/sandeepsharma28381/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sandeepsharma28381/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/sandeepsharma28381/leetcode/tree/master/0412-fizz-buzz) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sandeepsharma28381/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sandeepsharma28381/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sandeepsharma28381/leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/sandeepsharma28381/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sandeepsharma28381/leetcode/tree/master/0268-missing-number) |
 ## Counting
 |  |
