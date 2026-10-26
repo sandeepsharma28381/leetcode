@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/sandeepsharma28381/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sandeepsharma28381/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/sandeepsharma28381/leetcode/tree/master/1672-richest-customer-wealth) |
+| [1748-sum-of-unique-elements](https://github.com/sandeepsharma28381/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/sandeepsharma28381/leetcode/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sandeepsharma28381/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sandeepsharma28381/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sandeepsharma28381/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/sandeepsharma28381/leetcode/tree/master/0268-missing-number) |
+| [1748-sum-of-unique-elements](https://github.com/sandeepsharma28381/leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sandeepsharma28381/leetcode/tree/master/0169-majority-element) |
+| [1748-sum-of-unique-elements](https://github.com/sandeepsharma28381/leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
