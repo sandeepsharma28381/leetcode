@@ -1,16 +1,15 @@
 class Solution {
     public String reverseWords(String s) {
-        String[] arr = s.split(" ");
-        String ans = "";
-
-        for(String word: arr){
-            String rev = "";
-
-            for(int i = word.length()-1; i >= 0; i--){
-                rev += word.charAt(i);
-            }
-            ans += rev+" ";
+        // Split the input string into words and reverse each word
+        String[] words = s.split(" ");
+        StringBuilder result = new StringBuilder();
+        for (String word : words) {
+            StringBuilder reversedWord = new StringBuilder(word).reverse();
+            result.append(reversedWord).append(" ");
         }
-        return ans.trim();
+        result.deleteCharAt(result.length() - 1);  // Remove the extra space at the end
+        
+        // Convert StringBuilder to String
+        return result.toString();        
     }
 }
