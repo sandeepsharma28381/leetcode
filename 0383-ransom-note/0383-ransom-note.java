@@ -1,27 +1,25 @@
-import java.util.*;
-
 class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {
 
-        HashMap<Character, Integer> map = new HashMap<>();
+        StringBuilder str = new StringBuilder(magazine);
 
-        // Count characters in magazine
-        for(int i = 0; i < magazine.length(); i++) {
-            char ch = magazine.charAt(i);
-
-            map.put(ch, map.getOrDefault(ch, 0) + 1);
-        }
-
-        // Check ransomNote characters
         for(int i = 0; i < ransomNote.length(); i++) {
 
-            char ch = ransomNote.charAt(i);
+            boolean found = false;
 
-            if(!map.containsKey(ch) || map.get(ch) == 0) {
-                return false;
+            for(int j = 0; j < str.length(); j++) {
+
+                if(ransomNote.charAt(i) == str.charAt(j)) {
+
+                    str.deleteCharAt(j);
+                    found = true;
+                    break;
+                }
             }
 
-            map.put(ch, map.get(ch) - 1);
+            if(!found) {
+                return false;
+            }
         }
 
         return true;
