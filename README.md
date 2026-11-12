@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sandeepsharma28381/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/sandeepsharma28381/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sandeepsharma28381/leetcode/tree/master/0415-add-strings) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/sandeepsharma28381/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sandeepsharma28381/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sandeepsharma28381/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sandeepsharma28381/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/sandeepsharma28381/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/sandeepsharma28381/leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/sandeepsharma28381/leetcode/tree/master/0771-jewels-and-stones) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/sandeepsharma28381/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/sandeepsharma28381/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/sandeepsharma28381/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1544-make-the-string-great](https://github.com/sandeepsharma28381/leetcode/tree/master/1544-make-the-string-great) |
@@ -259,4 +261,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/sandeepsharma28381/leetcode/tree/master/0680-valid-palindrome-ii) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/sandeepsharma28381/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/sandeepsharma28381/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
