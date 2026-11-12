@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/sandeepsharma28381/leetcode/tree/master/0771-jewels-and-stones) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/sandeepsharma28381/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/sandeepsharma28381/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1544-make-the-string-great](https://github.com/sandeepsharma28381/leetcode/tree/master/1544-make-the-string-great) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sandeepsharma28381/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/sandeepsharma28381/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sandeepsharma28381/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -248,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sandeepsharma28381/leetcode/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [1544-make-the-string-great](https://github.com/sandeepsharma28381/leetcode/tree/master/1544-make-the-string-great) |
 <!---LeetCode Topics End-->
