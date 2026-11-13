@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sandeepsharma28381/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sandeepsharma28381/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sandeepsharma28381/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0605-can-place-flowers](https://github.com/sandeepsharma28381/leetcode/tree/master/0605-can-place-flowers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sandeepsharma28381/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/sandeepsharma28381/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sandeepsharma28381/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/sandeepsharma28381/leetcode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/sandeepsharma28381/leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Euclidean Algorithm
 |  |
