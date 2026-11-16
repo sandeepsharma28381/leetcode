@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/sandeepsharma28381/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/sandeepsharma28381/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sandeepsharma28381/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/sandeepsharma28381/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sandeepsharma28381/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/sandeepsharma28381/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sandeepsharma28381/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/sandeepsharma28381/leetcode/tree/master/0771-jewels-and-stones) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/sandeepsharma28381/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/sandeepsharma28381/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/sandeepsharma28381/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/sandeepsharma28381/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/sandeepsharma28381/leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Linked List
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sandeepsharma28381/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sandeepsharma28381/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sandeepsharma28381/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/sandeepsharma28381/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sandeepsharma28381/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sandeepsharma28381/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/sandeepsharma28381/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/sandeepsharma28381/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1768-merge-strings-alternately](https://github.com/sandeepsharma28381/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
@@ -168,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sandeepsharma28381/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sandeepsharma28381/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sandeepsharma28381/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/sandeepsharma28381/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Counting
 |  |
 | ------- |
