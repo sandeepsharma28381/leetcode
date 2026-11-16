@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sandeepsharma28381/leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/sandeepsharma28381/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sandeepsharma28381/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/sandeepsharma28381/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/sandeepsharma28381/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sandeepsharma28381/leetcode/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sandeepsharma28381/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sandeepsharma28381/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sandeepsharma28381/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sandeepsharma28381/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/sandeepsharma28381/leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sandeepsharma28381/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/sandeepsharma28381/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sandeepsharma28381/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sandeepsharma28381/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sandeepsharma28381/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/sandeepsharma28381/leetcode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/sandeepsharma28381/leetcode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
