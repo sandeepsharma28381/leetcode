@@ -1,8 +1,15 @@
+import java.util.*;
+
 class Solution {
     public int[] getConcatenation(int[] nums) {
-        int ans[] = new int[nums.length * 2];
-        for (int i = 0; i < ans.length; i++) {
-            ans[i] = nums[i % nums.length];
+        int n = nums.length;
+        int[] ans = new int[n*2];
+
+        for(int i = 0; i < n; i++){
+            ans[i] = nums[i];
+        }
+        for(int i = n; i < ans.length; i++){
+            ans[i] = nums[i-n];
         }
         return ans;
     }
