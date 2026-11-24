@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sandeepsharma28381/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sandeepsharma28381/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0605-can-place-flowers](https://github.com/sandeepsharma28381/leetcode/tree/master/0605-can-place-flowers) |
+| [0724-find-pivot-index](https://github.com/sandeepsharma28381/leetcode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sandeepsharma28381/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/sandeepsharma28381/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sandeepsharma28381/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/sandeepsharma28381/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/sandeepsharma28381/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/sandeepsharma28381/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/sandeepsharma28381/leetcode/tree/master/2485-find-the-pivot-integer) |
